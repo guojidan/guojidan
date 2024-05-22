@@ -12,3 +12,5 @@ Here are some ideas to get you started:
 - 📫 How to reach me: QQ Emil: 1948535941@qq.com
 
 Recent Projects: [ceph](https://github.com/ceph/ceph) [arrow-datafusion](https://github.com/apache/arrow-datafusion) [openraft](https://github.com/datafuselabs/openraft) [crabml](https://github.com/crabml/crabml/issues)
+
+one more thing: If you have interesting work, you can contact me! 😙
